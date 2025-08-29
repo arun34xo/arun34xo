@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**arun34xo/arun34xo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Computer Science Graduate** passionate about building **scalable, secure, and reliable systems**.  
+⚡ I thrive as a **Full-Stack Developer**, **AI Explorer**, and **Cybersecurity Enthusiast**, with a growing interest in **Embedded Systems**.  
+🎯 My focus is on crafting **clean architectures**, solving real-world problems, and delivering **cross-platform solutions** with impact.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
+- Python · C · C++ · C# · Java
+
+### 🌐 Web Development
+- HTML · CSS · JavaScript  
+- React · Tailwind CSS · Bootstrap  
+
+### 🧠 Backend · AI · Databases
+- Flask · Django  
+- Firebase · MySQL · MongoDB  
+
+### 🧰 Tools & Platforms
+- Git · Docker  
+- Wireshark · Linux · Windows  
